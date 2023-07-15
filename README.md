@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Pranjal
 #### I am a full stack developer
-<img src='https://media0.giphy.com/media/pOEbLRT4SwD35IELiQ/200w.webp?cid=ecf05e47ds2m0r0bz4lm804kxoxobp4isyalzb8buylp0474&ep=v1_gifs_search&rid=200w.webp&ct=g' alt='github' height='100'>
+<img src='https://media4.giphy.com/media/26tOY3KjQUL9YhRT2/giphy.webp?cid=ecf05e47ds2m0r0bz4lm804kxoxobp4isyalzb8buylp0474&ep=v1_gifs_search&rid=giphy.webp&ct=g' alt='github' height='100'>
 My name is Pranjal, and I'm thrilled to have you here at my GitHub profile. I'm a passionate in programming 
 
 I love using technology to solve problems and constantly strive to expand my knowledge and skills in the ever-evolving world. GitHub has been an integral part of my journey, allowing me to collaborate, learn from others, and showcase my projects to the world.
