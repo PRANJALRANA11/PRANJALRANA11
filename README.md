@@ -2,6 +2,7 @@
 #### I am a full stack developer
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+[<img src='https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png' alt='github' height='40'>]
 
 Skills:  REACT JS / EXPRESS JS /MONGODB/MYSQL/PYTHON/JAVA/NODEJS/DOCKER/TAILWIND CSS/ HTML5 / CSS3/TYPESCRIPT/NEXTJS
 
