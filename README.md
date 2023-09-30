@@ -17,7 +17,8 @@
 <img src='https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png' alt='github' height='40'>
 <img src='https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png' alt='github' height='40'>
 
-
+<h1>Badges</h1>
+[![An image of @pranjalrana11's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranjalrana11)](https://holopin.io/@pranjalrana11)
 
 
 
